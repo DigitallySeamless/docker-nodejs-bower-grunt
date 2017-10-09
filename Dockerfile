@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM library/node
+FROM library/node:6
 MAINTAINER Digitally Seamless <docker@digitallyseamless.com>
 
 # Install Bower & Grunt
