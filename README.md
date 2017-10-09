@@ -18,6 +18,8 @@ This repository contains a **Dockerfile** of [Node.js](http://nodejs.org/) w/ [B
 * [`4-onbuild`](https://github.com/DigitallySeamless/docker-nodejs-bower-grunt/blob/v4-onbuild/Dockerfile)
 * [`5`](https://github.com/DigitallySeamless/docker-nodejs-bower-grunt/blob/v5/Dockerfile)
 * [`5-onbuild`](https://github.com/DigitallySeamless/docker-nodejs-bower-grunt/blob/v5-onbuild/Dockerfile)
+* [`6`](https://github.com/DigitallySeamless/docker-nodejs-bower-grunt/blob/v6/Dockerfile)
+* [`6-onbuild`](https://github.com/DigitallySeamless/docker-nodejs-bower-grunt/blob/v6-onbuild/Dockerfile)
 * [`latest`](https://github.com/DigitallySeamless/docker-nodejs-bower-grunt/blob/master/Dockerfile)
 * [`onbuild`](https://github.com/DigitallySeamless/docker-nodejs-bower-grunt/blob/onbuild/Dockerfile)
 
